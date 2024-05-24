@@ -1,6 +1,14 @@
 # Hi there 👋
 
-## Sobre mi
+## About me
+
+Programming is my job and hobby. I like to learn and put into practice what I am studying and sometimes I end up creating a library or project to capture what I have learned.
+
+In my work, sometimes I have to be more related to management, infrastructure or developments associated with business applications. Which I also really enjoy.
+
+But in my free time is when I have the freedom to program what I want and how I want, taking the time I want and if I want to refactor everything I do it without any impediment. since the main objective is to learn. Which is positive for my work since it allows me to later apply what I have learned.
+
+For obvious reasons I cannot share what I develop at work but I can share what I develop in my free time.
 
 ## My Main Projects
 
@@ -53,8 +61,8 @@ Allow to extend json or yaml/json files configuration
 
 ## Training repositories
 
-- [UTN data science labs](https://github.com/FlavioLionelRita/utn-data-science-labs)
-- [UTN aws final](https://github.com/FlavioLionelRita/utn-aws-final)
+- [UTN Data Science labs](https://github.com/FlavioLionelRita/utn-data-science-labs)
+- [UTN AWS final](https://github.com/FlavioLionelRita/utn-aws-final)
 - [Packman with P5](https://github.com/FlavioLionelRita/p5-pacman)
 - [Tetris with P5](https://github.com/FlavioLionelRita/p5-tetris)
 - [Hangman with P5](https://github.com/FlavioLionelRita/p5-Hangman)
