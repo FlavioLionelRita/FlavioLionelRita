@@ -2,13 +2,13 @@
 
 ## About me
 
-Programming is my job and hobby. I like to learn and put into practice what I am studying and sometimes I end up creating a library or project to capture what I have learned.
+Programming is my job and my hobby. I like to learn and put into practice what I am studying and sometimes I end up creating a library or project to capture what I have learned.
 
-In my work, sometimes I have to be more related to management, infrastructure or developments associated with business applications. Which I also really enjoy.
+In my work I perform management, infrastructure and associated development tasks for different businesses. Which I enjoy a lot.
 
-But in my free time is when I have the freedom to program what I want and how I want, taking the time I want and if I want to refactor everything I do it without any impediment. since the main objective is to learn. Which is positive for my work since it allows me to later apply what I have learned.
+In my free time I dedicate myself to researching, studying and putting into practice different topics. and I do it without rushing with the sole objective of learning. Many times I end up applying what I learn later at work.
 
-For obvious reasons I cannot share what I develop at work but I can share what I develop in my free time.
+For obvious reasons I cannot share work developments but I can share my developments in my free time.
 
 ## My Main Projects
 
